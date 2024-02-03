@@ -44,7 +44,7 @@ This project is licensed under the MIT License.
 
 ## Contact 📧
 
-- GitHub: @yourusername
-- Email: your.email@example.com
+- GitHub: @Pavan19047
+- Email: pavandimpu1234@gmail.com
 
 Enjoy! 🎉
